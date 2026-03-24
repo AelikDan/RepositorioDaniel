@@ -1,0 +1,2 @@
+Tartagura
+echo "cachorro" >> animais.txt
