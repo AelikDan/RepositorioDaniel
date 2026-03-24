@@ -1,2 +1,15 @@
 Tartagura
 echo "cachorro" >> animais.txt
+Squirtle
+Baleia
+Golfinho
+Megalodon
+
+
+
+
+
+
+
+[A[A[A[A[A[A
+
